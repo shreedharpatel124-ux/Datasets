@@ -1,0 +1,151 @@
+restaurant_id,restaurant_name,cuisine_type,city_zone,restaurant_type,onboarding_month,avg_prep_time_min,monthly_order_volume,cancellation_rate_pct,avg_customer_rating,avg_delivery_time_min,platform_commission_pct,discount_offered_pct,monthly_gross_revenue_inr,support_tickets_per_100_orders,is_active,seating_capacity,owner_age,parking_available,social_media_followers,years_in_business
+R001,Lemon Express,Chinese,Zone D - Industrial,Chain,10,21,202,1.6,4.2,42,15.0,18,49055,2.4,1,80,31,1,751,20
+R002,Spice Place,Desserts,Zone A - City Centre,Independent,9,22,173,3.6,4.4,33,21.1,24,30753,3.3,1,50,30,1,816,12
+R003,Taste Diner,Multi-cuisine,Zone A - City Centre,Independent,6,34,130,14.9,3.9,29,18.1,19,36005,9.0,0,100,61,0,633,1
+R004,Golden Express,Multi-cuisine,Zone B - Suburbs,Independent,5,29,87,22.6,2.9,45,21.1,31,20252,10.9,0,80,50,0,1592,3
+R005,Pepper Treats,North Indian,Zone D - Industrial,Independent,5,21,143,3.0,3.5,45,19.8,24,37847,4.4,1,20,50,0,1687,4
+R006,Bombay Bowl,North Indian,Zone A - City Centre,Independent,13,16,123,1.0,4.4,31,22.2,10,31924,3.8,1,40,32,1,971,15
+R007,Shahi Kitchen,North Indian,Zone C - University Belt,Independent,15,21,107,7.5,3.7,35,22.6,9,30099,5.6,1,100,58,1,961,4
+R008,Spice Corner,Fast Food,Zone C - University Belt,Independent,6,10,127,2.1,4.2,36,25.4,22,18433,3.7,1,20,33,0,3880,3
+R009,Quick Diner,Multi-cuisine,Zone A - City Centre,Independent,5,31,156,19.9,3.3,36,21.4,28,46068,8.7,0,40,64,1,3426,5
+R010,Urban Flame,Multi-cuisine,Zone C - University Belt,Chain,5,25,282,2.5,3.8,34,15.0,23,87557,4.0,1,50,37,0,809,3
+R011,Spice Treats,North Indian,Zone B - Suburbs,Independent,6,24,98,9.3,3.9,41,20.6,29,23478,2.4,1,30,34,1,5392,2
+R012,Quick Treats,Desserts,Zone C - University Belt,Chain,4,22,278,12.0,3.9,37,15.8,27,37628,4.0,1,80,48,0,6718,4
+R013,Shahi Diner,Fast Food,Zone C - University Belt,Chain,13,11,265,1.4,4.1,30,15.5,11,33093,1.0,1,60,47,1,870,9
+R014,Punjabi Bowl,North Indian,Zone B - Suburbs,Independent,12,24,63,1.0,3.7,41,19.6,7,15250,6.0,1,80,30,1,963,17
+R015,Curry House,North Indian,Zone A - City Centre,Independent,5,25,127,1.0,4.2,29,20.5,24,35957,0.4,1,50,49,1,1550,1
+R016,Ginger Point,North Indian,Zone D - Industrial,Independent,7,19,70,5.3,4.1,41,22.8,17,19317,8.8,0,20,31,1,6231,6
+R017,Basil Palace,South Indian,Zone B - Suburbs,Independent,6,19,109,10.1,3.6,31,18.2,31,17119,8.5,1,60,55,0,4598,5
+R018,Tandoor Place,Chinese,Zone A - City Centre,Chain,17,20,329,5.2,4.1,39,18.0,7,83556,2.4,1,30,39,0,238,15
+R019,Golden Bites,Chinese,Zone A - City Centre,Chain,3,20,235,1.0,4.3,24,14.1,13,55915,1.9,1,50,63,0,1097,20
+R020,Ginger Cafe,South Indian,Zone C - University Belt,Chain,1,14,303,1.6,4.4,27,15.5,17,60331,2.5,0,60,32,0,1773,3
+R021,Delhi Corner,Multi-cuisine,Zone C - University Belt,Independent,7,30,127,7.4,4.0,34,16.0,2,42486,5.8,1,50,40,1,1539,18
+R022,Nawab Express,North Indian,Zone A - City Centre,Independent,12,24,80,2.4,4.0,37,19.0,16,23431,4.8,1,50,50,0,474,15
+R023,Masala Dhaba,South Indian,Zone B - Suburbs,Independent,10,25,71,1.0,4.4,39,22.8,9,13756,4.7,1,30,57,0,4307,12
+R024,Saffron Place,South Indian,Zone A - City Centre,Chain,4,22,320,8.1,3.9,38,15.6,31,54623,2.1,1,100,64,1,2486,4
+R025,Royal Junction,Chinese,Zone C - University Belt,Independent,3,30,70,10.9,3.9,35,18.2,8,12908,7.7,0,40,52,1,4003,4
+R026,Street Express,Fast Food,Zone A - City Centre,Independent,9,8,90,4.1,3.9,26,19.2,2,12039,3.6,1,60,54,1,4306,5
+R027,Nawab Corner,North Indian,Zone C - University Belt,Independent,5,26,94,1.9,4.1,32,21.9,18,25384,3.5,1,30,41,0,3035,2
+R028,Street Eatery,Chinese,Zone B - Suburbs,Independent,9,20,130,3.7,3.8,49,21.3,13,28826,5.6,0,50,63,0,1273,4
+R029,Lemon Flame,Multi-cuisine,Zone D - Industrial,Independent,5,40,110,23.0,3.2,48,19.7,29,26819,12.4,0,30,43,1,2075,3
+R030,Masala Bowl,North Indian,Zone A - City Centre,Chain,4,17,347,1.0,4.6,31,16.7,22,96780,0.0,1,100,49,0,385,5
+R031,Quick Corner,Multi-cuisine,Zone B - Suburbs,Independent,6,25,133,8.3,3.6,44,19.4,31,38325,4.8,1,40,48,0,2463,5
+R032,Royal Diner,North Indian,Zone A - City Centre,Independent,3,19,83,1.0,3.9,32,18.4,3,21811,4.1,1,80,48,1,435,20
+R033,Ginger Eatery,North Indian,Zone D - Industrial,Chain,5,11,157,12.7,4.0,40,15.2,27,38895,5.0,1,60,35,1,2605,3
+R034,Bombay Diner,Continental,Zone D - Industrial,Chain,6,29,171,5.9,3.8,48,17.4,20,70805,2.6,1,40,43,1,574,3
+R035,Delhi Grill,Desserts,Zone B - Suburbs,Chain,5,11,193,1.0,4.1,35,18.6,24,30520,3.8,0,20,58,0,275,4
+R036,Curry Junction,Fast Food,Zone C - University Belt,Chain,4,12,311,8.6,4.2,29,18.1,28,46818,3.5,1,60,37,0,397,5
+R037,Lemon Dhaba,South Indian,Zone D - Industrial,Independent,7,19,45,3.7,3.8,49,22.2,7,8599,2.6,1,40,59,1,4,19
+R038,Fresh Dhaba,North Indian,Zone C - University Belt,Independent,10,31,99,7.5,4.1,50,19.3,10,25680,5.7,1,50,61,0,2791,14
+R039,Masala Bites,Multi-cuisine,Zone B - Suburbs,Independent,15,34,114,3.9,4.2,42,21.0,19,37044,3.4,1,60,36,1,2900,18
+R040,Pepper Place,Chinese,Zone A - City Centre,Chain,5,17,330,7.9,3.9,22,13.1,24,77400,0.0,1,60,44,1,1592,4
+R041,Basil Corner,North Indian,Zone A - City Centre,Independent,11,17,126,1.0,4.7,29,18.4,18,37590,2.8,1,30,38,1,387,17
+R042,Saffron Point,Chinese,Zone D - Industrial,Independent,12,22,79,1.0,3.8,58,20.8,6,20002,5.2,1,50,59,0,192,12
+R043,Street Diner,North Indian,Zone D - Industrial,Chain,9,15,125,2.9,4.3,38,15.1,16,32320,3.5,1,20,37,0,42,9
+R044,Fresh Junction,Continental,Zone C - University Belt,Independent,1,41,141,8.2,3.8,51,22.6,21,56602,5.8,1,80,49,1,399,7
+R045,Nawab Place,South Indian,Zone B - Suburbs,Independent,13,23,80,1.2,4.3,48,19.3,0,14362,5.0,1,100,44,1,4873,3
+R046,Lemon Treats,Multi-cuisine,Zone B - Suburbs,Independent,10,27,71,1.0,4.5,39,20.6,8,22688,4.6,0,40,31,1,608,19
+R047,Taste Cafe,South Indian,Zone C - University Belt,Independent,5,9,150,9.0,3.9,31,20.8,31,27227,2.8,1,30,52,0,962,3
+R048,Ginger Kitchen,Chinese,Zone D - Industrial,Chain,13,26,113,1.0,3.8,55,11.5,11,27502,2.7,1,40,48,0,245,15
+R049,Taste Kitchen,Chinese,Zone D - Industrial,Independent,4,19,111,5.2,4.1,42,21.4,30,26036,5.1,1,20,64,1,553,2
+R050,Tandoor Grill,North Indian,Zone C - University Belt,Independent,4,28,126,5.3,3.9,36,19.3,24,28380,5.0,1,20,28,1,1611,4
+R051,Curry Corner,Desserts,Zone C - University Belt,Independent,5,8,124,11.3,4.3,25,21.9,28,18403,8.7,0,60,52,1,2059,2
+R052,Quick Bowl,Fast Food,Zone A - City Centre,Independent,4,9,175,7.7,4.0,20,17.5,27,24083,4.9,1,100,63,0,619,5
+R053,Basil Cafe,Continental,Zone A - City Centre,Independent,4,32,144,26.4,3.2,33,20.5,35,45619,12.1,1,20,44,1,131,1
+R054,Quick Hut,Continental,Zone D - Industrial,Chain,16,32,114,2.7,4.1,44,16.5,14,43266,4.9,1,40,51,1,1091,18
+R055,Nawab Junction,Multi-cuisine,Zone C - University Belt,Chain,10,27,234,1.0,4.0,37,14.3,15,81637,2.0,1,50,29,1,587,3
+R056,Golden Place,Continental,Zone A - City Centre,Independent,4,35,161,6.4,3.8,33,18.8,25,59608,3.6,1,50,42,1,545,5
+R057,Golden Diner,North Indian,Zone A - City Centre,Chain,5,16,288,4.5,4.4,30,16.9,25,82984,1.7,0,60,59,0,7074,1
+R058,Turmeric Treats,North Indian,Zone C - University Belt,Independent,5,21,176,4.8,4.0,26,20.6,25,48518,2.6,1,80,33,1,2107,1
+R059,Street Place,North Indian,Zone A - City Centre,Independent,11,22,78,2.4,4.0,33,20.9,15,20214,2.7,1,40,28,0,1791,6
+R060,Turmeric Bowl,South Indian,Zone A - City Centre,Independent,5,20,188,1.6,4.3,35,21.2,25,42253,3.6,1,40,50,1,1182,4
+R061,Shahi Bowl,Chinese,Zone B - Suburbs,Independent,15,23,93,1.0,4.5,30,21.5,14,20820,2.5,1,20,44,1,1233,7
+R062,Nawab Dhaba,South Indian,Zone C - University Belt,Independent,6,12,154,11.8,4.0,32,22.4,40,29163,6.3,0,100,61,0,1713,5
+R063,Taste Hub,Fast Food,Zone C - University Belt,Independent,5,8,132,8.6,4.2,34,21.0,33,19285,0.8,1,40,56,1,2623,5
+R064,Urban Hut,South Indian,Zone A - City Centre,Independent,14,24,134,2.3,4.1,26,19.7,11,24779,4.1,1,30,36,0,2665,13
+R065,Bombay Kitchen,South Indian,Zone C - University Belt,Independent,12,19,124,3.1,3.8,41,21.5,20,26708,3.8,1,80,40,1,414,8
+R066,Delhi Hub,Chinese,Zone A - City Centre,Independent,5,16,174,3.7,4.5,31,24.0,25,41053,2.5,1,20,33,1,1525,3
+R067,Lemon Point,North Indian,Zone B - Suburbs,Independent,9,29,68,7.8,3.9,39,19.9,0,17960,6.1,1,30,33,0,1168,15
+R068,Pepper Palace,Fast Food,Zone C - University Belt,Independent,8,12,106,5.7,4.0,30,18.3,6,15102,5.3,1,60,47,0,4497,4
+R069,Saffron Corner,North Indian,Zone C - University Belt,Chain,5,27,265,5.5,4.3,39,15.8,16,69366,0.0,0,50,30,1,2196,1
+R070,Nawab Grill,Desserts,Zone D - Industrial,Chain,2,15,141,5.2,4.1,43,14.7,10,24909,0.8,1,60,44,0,1673,9
+R071,Saffron Junction,Fast Food,Zone C - University Belt,Chain,3,22,277,3.5,4.2,37,12.2,13,42072,0.8,1,50,39,1,270,6
+R072,Urban Place,North Indian,Zone C - University Belt,Chain,12,30,243,10.7,4.3,33,17.1,23,52260,4.7,1,60,28,1,2047,10
+R073,Street House,North Indian,Zone A - City Centre,Chain,7,20,269,1.0,4.1,31,16.9,14,82348,3.3,1,40,44,1,274,21
+R074,Pepper Express,Fast Food,Zone B - Suburbs,Independent,5,16,126,12.2,4.0,30,20.0,26,14195,6.5,1,30,30,0,905,5
+R075,Ginger Place,Multi-cuisine,Zone B - Suburbs,Chain,2,33,217,6.4,3.9,44,15.9,17,70365,2.8,0,50,53,1,339,16
+R076,Delhi Eatery,Multi-cuisine,Zone A - City Centre,Independent,1,36,101,12.7,3.8,33,20.6,0,30759,4.8,1,20,42,1,2591,12
+R077,Shahi Point,Fast Food,Zone D - Industrial,Independent,6,8,87,8.6,4.3,35,21.6,29,10742,4.8,1,30,63,0,508,3
+R078,Punjabi House,North Indian,Zone B - Suburbs,Chain,17,25,221,1.0,4.2,47,15.0,17,59248,0.0,1,20,59,1,1094,4
+R079,Turmeric Place,South Indian,Zone D - Industrial,Independent,4,23,57,5.1,4.0,51,21.2,19,9862,3.9,1,30,59,1,4973,1
+R080,Urban Point,North Indian,Zone C - University Belt,Independent,12,13,103,1.0,4.5,33,19.7,19,28061,4.2,1,30,31,1,503,11
+R081,Urban Express,Fast Food,Zone C - University Belt,Chain,5,8,301,12.0,3.7,23,16.2,30,38236,7.2,1,60,45,0,1560,1
+R082,Lemon Eatery,Multi-cuisine,Zone B - Suburbs,Independent,4,19,81,1.0,4.1,36,21.4,25,27261,1.7,0,50,46,1,1196,2
+R083,Lemon Nook,South Indian,Zone C - University Belt,Independent,16,16,128,2.7,3.9,38,18.3,16,27520,0.0,1,50,62,0,40,5
+R084,Saffron Bites,North Indian,Zone B - Suburbs,Independent,7,25,65,1.0,3.8,41,22.4,26,20030,4.1,1,100,41,0,3463,8
+R085,Golden Dhaba,South Indian,Zone A - City Centre,Independent,10,25,154,1.0,4.5,44,19.1,14,29121,6.7,1,30,60,1,157,7
+R086,Street Nook,South Indian,Zone C - University Belt,Independent,15,18,127,1.0,4.0,35,21.8,14,24725,5.8,1,40,41,1,1414,7
+R087,Spice Flame,Multi-cuisine,Zone B - Suburbs,Independent,7,38,88,1.6,4.0,48,20.9,10,23978,5.3,1,40,61,0,1810,17
+R088,Tandoor Hut,Multi-cuisine,Zone A - City Centre,Chain,10,23,316,1.0,4.2,30,14.6,7,93655,1.2,1,20,31,0,2178,19
+R089,Spice Express,Continental,Zone C - University Belt,Independent,1,23,161,3.1,4.2,36,19.8,17,71422,5.1,1,20,51,0,2567,11
+R090,Masala Eatery,Chinese,Zone A - City Centre,Independent,4,19,167,4.8,4.3,29,19.5,22,44883,2.2,1,60,56,0,643,3
+R091,Taste Bowl,North Indian,Zone D - Industrial,Independent,3,23,18,1.0,4.2,49,20.2,13,4497,4.6,1,30,46,0,22,19
+R092,Bombay Corner,Multi-cuisine,Zone D - Industrial,Independent,14,29,24,7.9,3.6,53,19.6,10,6738,5.8,1,20,33,0,2828,12
+R093,Turmeric Hut,Fast Food,Zone D - Industrial,Independent,4,8,73,8.3,3.9,35,21.8,30,9886,5.5,1,20,60,1,1688,3
+R094,Bombay Treats,Multi-cuisine,Zone B - Suburbs,Independent,10,29,90,2.6,4.2,36,17.0,15,28680,9.4,1,80,46,1,3979,20
+R095,Ginger Hub,Fast Food,Zone A - City Centre,Independent,2,8,149,3.0,4.1,16,18.1,19,20005,4.4,1,30,28,1,3790,20
+R096,Golden Hut,Chinese,Zone D - Industrial,Independent,6,23,61,5.4,4.2,48,18.1,24,14916,3.0,1,60,32,1,4078,1
+R097,Street Point,Chinese,Zone B - Suburbs,Independent,11,21,88,2.5,4.3,33,22.1,11,20637,3.8,1,20,54,0,1460,5
+R098,Curry Nook,Chinese,Zone D - Industrial,Independent,10,15,33,3.2,4.3,31,23.6,7,7977,1.0,1,60,43,1,893,5
+R099,Saffron Palace,North Indian,Zone D - Industrial,Independent,4,19,65,2.9,4.2,46,20.0,25,18445,2.7,1,50,33,1,3450,5
+R100,Ginger Bites,North Indian,Zone D - Industrial,Independent,7,16,29,1.0,4.2,55,19.9,15,8043,3.1,1,60,40,1,1320,17
+R101,Basil Eatery,North Indian,Zone B - Suburbs,Chain,4,21,214,8.4,3.9,39,16.5,32,52971,1.2,1,40,62,1,446,1
+R102,Punjabi Nook,Multi-cuisine,Zone B - Suburbs,Independent,2,34,43,6.2,3.6,49,22.5,7,12794,5.2,0,40,46,1,4248,11
+R103,Punjabi Express,South Indian,Zone D - Industrial,Independent,5,13,69,5.3,4.1,42,18.3,33,12976,2.5,1,60,39,1,4712,4
+R104,Bombay Cafe,Chinese,Zone B - Suburbs,Independent,6,22,149,7.1,3.8,39,20.7,36,33581,5.6,0,40,43,0,1381,5
+R105,Spice Bowl,Continental,Zone A - City Centre,Independent,18,29,106,14.4,3.6,39,22.2,15,37764,8.0,1,50,37,1,173,4
+R106,Home Diner,South Indian,Zone C - University Belt,Independent,2,14,197,1.0,4.4,29,21.2,24,43995,3.8,1,30,52,1,1080,13
+R107,Basil Kitchen,Chinese,Zone D - Industrial,Independent,6,19,89,3.6,4.3,45,20.6,23,22411,3.3,1,40,47,1,3580,1
+R108,Taste Corner,Fast Food,Zone C - University Belt,Chain,5,8,285,4.2,4.1,30,14.7,20,39453,2.2,1,40,58,1,5105,3
+R109,Royal Cafe,South Indian,Zone C - University Belt,Independent,14,15,74,3.8,4.2,28,14.8,2,15031,5.1,1,60,31,0,500,11
+R110,Bombay Nook,North Indian,Zone A - City Centre,Chain,5,16,355,9.4,4.3,34,17.9,36,87651,0.6,1,50,50,0,153,3
+R111,Taste Place,South Indian,Zone C - University Belt,Independent,13,27,104,2.6,4.2,36,18.9,16,22161,2.7,1,100,29,1,4617,4
+R112,Pepper Hut,North Indian,Zone D - Industrial,Independent,4,22,87,5.4,4.5,42,16.5,27,23726,3.3,1,100,49,1,1085,4
+R113,Golden Bowl,Continental,Zone A - City Centre,Independent,6,28,216,12.1,3.9,37,21.2,29,80000,4.6,1,100,64,1,1717,2
+R114,Home Hut,Fast Food,Zone B - Suburbs,Independent,18,13,73,2.6,3.8,31,22.9,6,10900,2.5,1,100,35,0,7577,11
+R115,Taste Hut,Multi-cuisine,Zone D - Industrial,Independent,10,29,112,17.5,3.5,49,19.9,27,25852,10.7,1,30,34,0,152,17
+R116,Shahi Bites,Continental,Zone C - University Belt,Independent,6,30,120,24.3,3.4,38,22.1,28,35127,12.9,0,60,41,1,2299,1
+R117,Delhi Express,Fast Food,Zone C - University Belt,Independent,12,15,112,5.7,4.3,37,23.4,13,14138,4.2,1,60,30,1,169,7
+R118,Masala Palace,North Indian,Zone C - University Belt,Independent,16,25,164,1.0,4.3,38,22.8,17,45981,4.1,1,80,43,1,1036,13
+R119,Shahi Junction,Continental,Zone B - Suburbs,Independent,4,29,98,21.7,3.3,42,23.5,30,37132,12.9,0,50,46,1,3583,3
+R120,Turmeric Kitchen,Chinese,Zone B - Suburbs,Independent,5,17,157,11.2,3.5,41,21.7,29,41076,6.6,1,100,45,1,1250,2
+R121,Royal Grill,Fast Food,Zone D - Industrial,Independent,4,10,95,7.6,3.8,47,20.4,23,13655,4.4,1,30,43,0,12918,4
+R122,Turmeric Cafe,Continental,Zone D - Industrial,Independent,4,20,74,5.3,3.7,47,17.0,30,30976,3.6,1,50,35,1,1801,3
+R123,Delhi Diner,South Indian,Zone D - Industrial,Chain,6,10,205,13.6,3.6,40,15.5,39,30320,5.4,0,100,60,1,852,5
+R124,Quick Bites,North Indian,Zone D - Industrial,Independent,1,28,98,1.0,4.3,42,18.5,21,25986,2.9,1,30,39,1,547,18
+R125,Street Junction,South Indian,Zone B - Suburbs,Chain,4,26,260,8.1,4.3,36,16.2,37,44776,0.0,1,50,38,1,949,2
+R126,Golden Palace,Chinese,Zone B - Suburbs,Independent,16,18,41,1.0,4.3,36,19.8,9,9643,3.6,1,60,32,1,1025,20
+R127,Fresh Place,Fast Food,Zone C - University Belt,Independent,6,14,110,2.2,4.0,28,20.4,22,15708,6.1,1,60,54,0,157,5
+R128,Punjabi Diner,Fast Food,Zone C - University Belt,Independent,18,13,106,1.0,4.3,29,21.3,12,14945,5.3,1,20,39,1,1015,18
+R129,Bombay Junction,North Indian,Zone C - University Belt,Independent,6,37,135,21.5,3.6,41,20.3,28,24974,13.0,1,40,44,0,1373,5
+R130,Royal Treats,Chinese,Zone C - University Belt,Chain,13,25,294,1.0,4.1,38,13.6,19,77119,4.0,1,100,33,1,2822,7
+R131,Ginger Diner,Chinese,Zone D - Industrial,Chain,16,19,134,1.0,4.1,44,17.2,2,30319,2.1,1,80,60,0,2352,15
+R132,Fresh Palace,South Indian,Zone B - Suburbs,Independent,5,13,91,15.1,3.7,38,20.6,37,15748,10.6,1,50,32,0,2714,1
+R133,Chennai Hut,North Indian,Zone B - Suburbs,Independent,5,13,118,13.1,3.6,36,18.7,27,33476,5.8,1,80,55,1,18,2
+R134,Quick Grill,South Indian,Zone A - City Centre,Chain,4,19,335,3.6,4.3,20,17.4,25,59838,1.5,1,20,41,0,540,5
+R135,Royal Point,Continental,Zone C - University Belt,Chain,18,28,272,1.0,4.2,32,15.1,6,91278,3.0,1,40,32,1,2384,21
+R136,Nawab House,South Indian,Zone A - City Centre,Independent,14,10,138,2.9,4.3,25,20.1,3,26186,5.7,1,50,60,1,1456,5
+R137,Punjabi Eatery,Chinese,Zone B - Suburbs,Chain,4,16,258,9.8,3.7,31,15.9,32,63303,1.8,1,30,46,0,12,2
+R138,Shahi Treats,Multi-cuisine,Zone B - Suburbs,Independent,6,24,122,4.8,3.9,43,18.8,28,42989,3.1,1,100,49,1,3591,3
+R139,Biryani Bites,South Indian,Zone B - Suburbs,Independent,2,26,72,1.0,4.2,49,17.4,5,12854,3.8,1,40,32,1,3260,15
+R140,Royal Bowl,Desserts,Zone C - University Belt,Chain,8,19,215,1.0,4.1,39,14.5,5,38729,3.0,1,60,29,1,1749,15
+R141,Royal Kitchen,Desserts,Zone A - City Centre,Chain,5,14,331,5.7,4.4,27,14.8,25,52590,0.0,1,20,57,0,151,1
+R142,Urban Nook,South Indian,Zone A - City Centre,Independent,4,25,172,9.1,3.8,40,21.7,38,31005,0.1,1,40,31,0,3200,3
+R143,Fresh Kitchen,Chinese,Zone D - Industrial,Independent,7,20,65,1.0,4.2,45,20.4,11,19491,2.9,1,100,60,0,1928,18
+R144,Urban Corner,South Indian,Zone B - Suburbs,Independent,6,13,62,8.1,4.2,34,17.3,18,10025,1.8,1,40,40,0,3351,4
+R145,Fresh Corner,South Indian,Zone A - City Centre,Independent,5,25,121,5.0,3.8,30,19.6,26,23457,3.0,1,100,47,0,3065,1
+R146,Pepper Diner,North Indian,Zone B - Suburbs,Independent,18,24,109,1.0,3.8,39,18.7,11,31345,3.6,1,60,34,1,3574,18
+R147,Home Flame,Multi-cuisine,Zone C - University Belt,Independent,5,24,109,4.9,3.8,33,20.8,11,36052,3.1,1,50,42,1,1606,1
+R148,Royal Flame,Chinese,Zone A - City Centre,Independent,5,19,166,10.1,4.1,31,22.9,27,37601,9.1,1,30,50,1,333,5
+R149,Bombay Palace,North Indian,Zone C - University Belt,Independent,1,17,111,4.8,4.0,33,16.4,11,30317,4.3,1,60,41,1,2447,13
+R150,Pepper Bowl,South Indian,Zone A - City Centre,Chain,13,11,308,1.0,4.8,26,17.9,17,59073,2.5,1,30,50,0,2131,15
